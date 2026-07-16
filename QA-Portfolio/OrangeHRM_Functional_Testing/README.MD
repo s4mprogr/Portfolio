@@ -122,13 +122,4 @@ OrangeHRM_Functional_Testing/
 
 ---
 
-## 💡 Aprendizajes clave de este proyecto
-
-- Un entorno de demo público compartido introduce riesgos reales (datos modificados por otros usuarios, reinicios periódicos) — documenté esto en el Test Plan como riesgo explícito.
-- BUG-003 demostró la importancia de documentar el **impacto en cadena**: un solo bug bloqueó 4 casos adicionales. La justificación de los casos "No ejecutados" es tan importante como los que sí se ejecutaron.
-- BUG-002 (fecha de nacimiento futura) es un ejemplo de defecto que pasa desapercibido en pruebas del camino feliz — solo aparece cuando pruebas casos negativos y de límite.
-- La query `QA-SQL-007` del archivo `queries.sql` demuestra cómo verificar a nivel de base de datos un defecto que el frontend "acepta sin quejarse".
-
----
-
 *← [Volver al portafolio principal](../README.md)*
