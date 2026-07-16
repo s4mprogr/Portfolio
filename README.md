@@ -1,15 +1,11 @@
-# Portfolio
-Sobre mi
-CV
-Tech Skills
-Herramientas
-Soft - Skills
-Certificaciones y Cursos.
+📂 Portfolio
 
-Sobre mi
-
-CV
-Tech Skills
-Herramientas
-Soft - Skills
-Certificaciones y Cursos.
+├── 👨‍💻 About Me
+├── 📄 Resume (CV)
+├── 🧪 QA Projects
+├── 🛠 Technical Skills
+├── 💻 Tools & Technologies
+├── 📜 Certifications
+├── 🌍 Languages
+├── 🤝 Soft Skills
+└── 📫 Contact
