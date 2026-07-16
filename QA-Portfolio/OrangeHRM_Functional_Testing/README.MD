@@ -116,7 +116,7 @@ OrangeHRM_Functional_Testing/
 | Herramienta | Uso |
 |---|---|
 | Chrome + DevTools | Ejecución y captura de evidencia |
-| Jira (free plan) | Reporte y seguimiento de bugs |
+| Jira | Reporte y seguimiento de bugs |
 | Excel | Test Cases y Coverage Matrix |
 | SQL (MySQL) | Validación de integridad en base de datos |
 
