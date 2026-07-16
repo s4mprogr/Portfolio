@@ -96,13 +96,4 @@ Restful_Booker_API/
 
 ---
 
-## 💡 Aprendizajes clave de este proyecto
-
-- El **orden de ejecución importa** en API testing: `POST /auth` debe ejecutarse antes que cualquier operación que requiera token; `POST /booking` debe ejecutarse antes de PUT, PATCH o DELETE para tener un `booking_id` válido.
-- Las variables de entorno de Postman (`{{variable}}`) son fundamentales para encadenar requests sin hardcodear valores — permiten que la colección sea reutilizable en cualquier entorno.
-- El status `201` en `DELETE /booking/{id}` es un ejemplo real de por qué los testers deben conocer los estándares HTTP (RFC 7231), no solo verificar que "algo funciona".
-- Siempre verificar con un `GET` posterior a un `DELETE` — la única forma de confirmar que la eliminación fue real es comprobar que el recurso ya no existe (`404 Not Found`).
-
----
-
 *← [Volver al portafolio principal](../README.md)*
