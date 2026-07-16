@@ -95,17 +95,17 @@ OrangeHRM_Functional_Testing/
 ├── Test_Cases/
 │   └── Test_Cases.xlsx            # 22 casos con pasos, resultado esperado y real
 ├── Coverage_Matrix/
-│   └── Coverage_Matrix.xlsx       # Trazabilidad + resumen por módulo + gráfico
+│   └── Coverage_Matrix.xlsx       # Trazabilidad + resultados por módulo 
 ├── Bug_Reports/
-│   ├── Jira_Exports/              # Issues exportados desde Jira
-│   └── Screenshots/               # Evidencia por módulo
-│       ├── Login/
-│       ├── PIM/
-│       └── Leave/
+│   ├── BUG-001
+│   └── BUG_001_Evidence.mp4 
+│   └── BUG_001_JIRA.TICKET.png  # Ticket de reporte de bug de Jira + evidencia por bug
+│   ├── BUG-002
+│   ├── BUG-003
 ├── SQL/
 │   └── queries.sql                # 16 queries de validación de datos en backend
 ├── Test_Summary_Report/
-│   └── Final_Report.pdf           # Cierre del ciclo con métricas y conclusiones
+│   └── Informe de Cierre de Pruebas ORANGEHRM.pdf           # Cierre del ciclo con métricas y conclusiones
 └── README.md                      # Este archivo
 ```
 
@@ -119,7 +119,6 @@ OrangeHRM_Functional_Testing/
 | Jira | Reporte y seguimiento de bugs |
 | Excel | Test Cases y Coverage Matrix |
 | SQL (MySQL) | Validación de integridad en base de datos |
-
 ---
 
 *← [Volver al portafolio principal](../README.md)*
