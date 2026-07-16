@@ -98,14 +98,14 @@ OrangeHRM_Functional_Testing/
 │   └── Coverage_Matrix.xlsx       # Trazabilidad + resultados por módulo 
 ├── Bug_Reports/
 │   ├── BUG-001
-│   └── BUG_001_Evidence.mp4 
-│   └── BUG_001_JIRA.TICKET.png  # Ticket de reporte de bug de Jira + evidencia por bug
+│     └── BUG_001_Evidence.mp4 
+│     └── BUG_001_JIRA.TICKET.png  # Ticket de reporte de bug de Jira + evidencia por bug
 │   ├── BUG-002
-│   └── BUG_002_Evidence.mp4 
-│   └── BUG_002_JIRA.TICKET.png
+│     └── BUG_002_Evidence.mp4 
+│     └── BUG_002_JIRA.TICKET.png
 │   ├── BUG-003
-│   └── BUG_003_Evidence.png 
-│   └── BUG_003_JIRA.TICKET.png
+│     └── BUG_003_Evidence.png 
+│     └── BUG_003_JIRA.TICKET.png
 ├── SQL/
 │   └── queries.sql                # 16 queries de validación de datos en backend
 ├── Test_Summary_Report/
