@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Ospina — QA Tester Portfolio
 
-## 📂 [Portfolio] (#QA-Portflio) 
+📁 [Portfolio](./QA-Portfolio/)
 
 ├── 👨‍💻 [About Me / Sobre Mí](#about-me)
 
