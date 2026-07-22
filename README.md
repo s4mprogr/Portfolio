@@ -1,24 +1,18 @@
 # 👨‍💻 Samuel Ospina — QA Tester Portfolio
 
-📂 Portfolio
+## 📂 Portfolio
 
-├── 👨‍💻 [About Me](#about-me)
-
-├── 📄 Resume (CV)
-
-├── 🧪 QA Projects
-
-├── 🛠 Technical Skills
-
-├── 💻 Tools & Technologies
-
-├── 📜 Certifications
-
-├── 🌍 Languages
-
-├── 🤝 Soft Skills
-
-└── 📫 Contact
+| Section | Link |
+|---------|------|
+| 👨‍💻 About Me / Sobre Mí | [Go](#about-me) |
+| 📄 Resume (CV) / Currículum | [Go](#-resume-cv) |
+| 🧪 Featured QA Projects | [Go](#-featured-qa-projects) |
+| 🛠 Technical Skills / Habilidades Técnicas | [Go](#-technical-skills) |
+| 💻 Tools & Technologies / Herramientas y Tecnologías | [Go](#-tools--technologies) |
+| 📜 Certifications & Courses | [Go](#-certifications--courses) |
+| 🌍 Languages | [Go](#-languages) |
+| 🤝 Soft Skills / Habilidades Blandas | [Go](#-soft-skills) |
+| 📫 Contact | [Go](#-contact) |
 
 ## About Me
 
