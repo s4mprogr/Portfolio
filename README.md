@@ -3,14 +3,23 @@
 ## 📂 Portfolio
 
 ├── 👨‍💻 [About Me / Sobre Mí](#about-me)
+
 ├── 📄 [Resume (CV) / Currículum](#-resume-cv)
+
 ├── 🧪 [Featured QA Projects](#-featured-qa-projects)
+
 ├── 🛠 [Technical Skills / Habilidades Técnicas](#-technical-skills)
+
 ├── 💻 [Tools & Technologies / Herramientas y Tecnologías](#-tools--technologies)
+
 ├── 📜 [Certifications & Courses](#-certifications--courses)
+
 ├── 🌍 [Languages](#-languages)
+
 ├── 🤝 [Soft Skills / Habilidades Blandas](#-soft-skills)
+
 └── 📫 [Contact](#-contact)
+
 
 ## About Me
 
