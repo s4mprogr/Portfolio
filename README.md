@@ -2,7 +2,7 @@
 
 📂 Portfolio
 
-├── 👨‍💻 ## About Me
+├── 👨‍💻  [About Me] About Me
 
 ├── 📄 Resume (CV)
 
